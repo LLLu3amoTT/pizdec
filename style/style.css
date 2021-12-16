@@ -1,0 +1,67 @@
+body {
+    background-color: springgreen;
+    background-image: url("../img/5e7_depositphotos_12010041_l_2015.jpg");
+}
+
+
+.referat {
+    width: 1000px;
+}
+
+.justc {
+    justify-content: center;
+    display: flex;
+}
+
+.h1 {
+    justify-content: center;
+}
+
+.zmist_h1 {
+    text-align: center;
+    color: white;
+}
+
+.zmist_text {
+    margin-top: 20px;
+    width: 700px;
+    color: red;
+}
+
+p {
+    font-size: 18px;
+}
+
+.h1_1 {
+    text-align: center;
+    color: white;
+}
+
+.top_20 {
+    margin-top: 20px;
+}
+
+.tipo_centr {
+    display: flex;
+    
+}
+
+.tc_p {
+    margin-left: 4px;
+    font-size: 19px;
+}
+
+.text_1 {
+    color: cyan;
+}
+.text_2 {
+    color: crimson;
+}
+
+.h1_2 {
+    color: white;
+}
+
+.tipo_centr {
+    color: violet;
+}
